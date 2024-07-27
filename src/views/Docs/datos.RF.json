@@ -1,0 +1,303 @@
+[
+    {
+        "numero": "RF001",
+        "descripcion": "El sistema deberá permitir al usuario crear cuentas de sesión con las datos del usuario para acceder al sistema",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF002",
+        "descripcion": "El sistema deberá permitir al usuario cerrar la sesión de su cuenta de usuario",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF003",
+        "descripcion": "El sistema deberá permitir al usuario seleccionar su género en el apartado de perfil",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF004",
+        "descripcion": "El sistema deberá permitir al usuario ingresar o iniciar sesión en el sistema con la cuenta creada anteriormente utilizando su nombre de usuario y contraseña",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF005",
+        "descripcion": "El sistema deberá permitir al usuario generar una imagen de perfil con sus iniciales",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF006",
+        "descripcion": "El sistema deberá permitir al estudiante visualizar la información del maestro como su nombre, correo y telefono",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF007",
+        "descripcion": "El sistema deberá permitir al usuario visualizar una alerta al iniciar sesión la cual indique que se está cargando su solicitud.",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF008",
+        "descripcion": "El sistema deberá permitir al usuario registrarse con dos tipos de roles, maestro y estudiante",
+        "proceso": "Registro",
+        "stakeholder": "STK004 - SECRETARIA"
+    },
+    {
+        "numero": "RF009",
+        "descripcion": "El sistema deberá permitir al usuario ingresar a la plataforma a tráves de una computadora o navegador web",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF010",
+        "descripcion": "el sistema deberá permitir al usuario hacer un cambio de contraseña",
+        "proceso": "Registro",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF011",
+        "descripcion": "El sistema deberá permitir al usuario ver los detalles de su propio perfil",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF012",
+        "descripcion": "El sistema deberá permitir al usuario visualizar una alerta en caso de que sus datos al iniciar sesión sean incorrectos",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF013",
+        "descripcion": "El sistema deberá permitir al usuario visualizar una alerta si el contenido buscado no se encuentra disponible",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF014",
+        "descripcion": "El sistema deberá permitir al usuario visualizar en el dashboard cursos y articulos",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF015",
+        "descripcion": "El sistema deberá permitir al docente visualizar la información dependiendo de su búsqueda",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF016",
+        "descripcion": "El sistema deberá permitir al docente adjuntar links a contenido externo a la plataforma",
+        "proceso": "Educativo",
+        "stakeholder": "STK006 - BIBLIOTECARIO"
+    },
+    {
+        "numero": "RF017",
+        "descripcion": "El sistema deberá permitir al estudiante abrir links de contenido externo a la plataforma",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF018",
+        "descripcion": "El sistema deberá permitir al usuario visualizar el apartado de articulos ",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF019",
+        "descripcion": "El sistema deberá permitir al docente subir información o material relacionado con temas educativos a la plataforma como videos, textos y links",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF020",
+        "descripcion": "El sistema deberá permitir al docente insertar articulos",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF021",
+        "descripcion": "El sistema deberá permitir al docente agregar descripciones a los cursos agregados",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF022",
+        "descripcion": "El sistema deberá permitir al docente asignar evaluaciones o examenes",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF023",
+        "descripcion": "El sistema deberá permitir al estudiante visualizar los resultados de su búsqueda dentro de la plataforma ",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF024",
+        "descripcion": "El sistema deberá permitir al usuario reproducir videos y descargar los videos ",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF025",
+        "descripcion": "El sistema deberá permitir al docente asignarle una categoria al contenido subido",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF026",
+        "descripcion": "El sistema deberá permitir al usuario escribir palabras clave de búsqueda para obtener información más acertada",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF027",
+        "descripcion": "El sistema deberá permitir al usuario vizualizar links de información externa en el pie de la página de la plataforma",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF028",
+        "descripcion": "El sistema deberá permitir al usuario visualizar a los usuarios de la plataforma en el apartado de busqueda",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF029",
+        "descripcion": "El sistema deberá permitir al usuario visualizar el contenido subido",
+        "proceso": "Educativo",
+        "stakeholder": "STK007 - REP. ESTUDIANTIL"
+    },
+    {
+        "numero": "RF030",
+        "descripcion": "El sistema deberá permitir al docente visualizar los cursos todos los cursos creados propiamente",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF031",
+        "descripcion": "El sistema deberá permitir al docente ver una alerta de confirmación cuando suba el contenido",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF032",
+        "descripcion": "El sistema deberá permitir al docente borrar el curso creado anteriormente deseado",
+        "proceso": "Educativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF033",
+        "descripcion": "El sistema deberá permitir al usuario buscar a otros usuarios dentro la plataforma como docentes y alumnos obtener información de contacto directo",
+        "proceso": "Educativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF034",
+        "descripcion": "El sistema deberá permitir al docente visualizar una alerta de error si no es posible subir el contenido",
+        "proceso": "Educativo",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF035",
+        "descripcion": "El sistema deberá permitir al usuario visualizar todas las secciones disponibles en la barra lateral izquierda",
+        "proceso": "Convivencia",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF036",
+        "descripcion": "El sistema permitirá al usuario visualizar el apartado de soporte con las preguntas frecuentes",
+        "proceso": "Convivencia",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF037",
+        "descripcion": "El sistema deberá permitir al estudiante visualizar el correo de los docentes para permitir la interacción entre estudiantes y maestros",
+        "proceso": "Convivencia",
+        "stakeholder": "STK007 - REP. ESTUDIANTIL"
+    },
+    {
+        "numero": "RF038",
+        "descripcion": "El sistema deberá permitir al administrador realizar un reporte en pdf de los cursos",
+        "proceso": "Convivencia",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF039",
+        "descripcion": "El sistema deberá permitir al administrador eliminar usuarios de la plataforma",
+        "proceso": "Convivencia",
+        "stakeholder": "STK003 - COORDINADORA CONVIVENCIA"
+    },
+    {
+        "numero": "RF040",
+        "descripcion": "El sistema deberá permitir al administrador eliminar cursos de la plataforma",
+        "proceso": "Administrativo",
+        "stakeholder": "STK007 - REP. ESTUDIANTIL"
+    },
+    {
+        "numero": "RF041",
+        "descripcion": "El sistema deberá permitir al administrador ingresar con credenciales ya establecidas",
+        "proceso": "Administrativo",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF042",
+        "descripcion": "El sistema deberá permitir al administrador realizar un reporte en pdf de los usuarios",
+        "proceso": "Administrativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF043",
+        "descripcion": "El sistema deberá permitir al usuario modificar la información de su cuenta",
+        "proceso": "Administrativo",
+        "stakeholder": "STK002 - COORDINADORA ACADÉMICA"
+    },
+    {
+        "numero": "RF044",
+        "descripcion": "El sistema deberá permitir al administrador eliminar articulos de la plataforma",
+        "proceso": "Administrativo",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF045",
+        "descripcion": "El sistema deberá permitir al usuario eliminar su cuenta de usuario",
+        "proceso": "Administrativo",
+        "stakeholder": "STK007 - REP. ESTUDIANTIL"
+    },
+    {
+        "numero": "RF046",
+        "descripcion": "El sistema deberá permitir al usuario visualizar el manual de usuario en la plataforma",
+        "proceso": "Administrativo",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF047",
+        "descripcion": "El sistema deberá permitir al usuario visualizar el manual técnico en la plataforma",
+        "proceso": "Control y mejora",
+        "stakeholder": "STK005 - DOCENTE"
+    },
+    {
+        "numero": "RF048",
+        "descripcion": "El sistema deberá permitir al usuario visualizar en el pie de la página rutas importantes",
+        "proceso": "Control y mejora",
+        "stakeholder": "STK001 - RECTOR"
+    },
+    {
+        "numero": "RF049",
+        "descripcion": "El sistema deberá permitir al usuario enviar informes de errores de la plataforma al correo de los desarrolladores",
+        "proceso": "Control y mejora",
+        "stakeholder": "SSTK007 - REP. ESTUDIANTIL"
+    },
+    {
+        "numero": "RF050",
+        "descripcion": "El sistema deberá permitir al usuario enviar informes de errores de la plataforma a los administradores ",
+        "proceso": "Control y mejora",
+        "stakeholder": "STK007 - REP. ESTUDIANTIL"
+    }
+
+]

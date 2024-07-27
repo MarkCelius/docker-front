@@ -1,0 +1,61 @@
+/* Importación de las bases, componentes y utilidades de Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo para ocultar la barra de desplazamiento en navegadores compatibles */
+html {
+  scrollbar-width: none;
+}
+
+/* Definición de fuentes personalizadas utilizando @font-face */
+@font-face {
+  font-family: "InterSem"; /* Nombre de la fuente para uso en CSS */
+  src: url("/font/InterSem.ttf"); /* Ruta del archivo de la fuente */
+}
+
+@font-face {
+  font-family: "InterM"; /* Nombre de la fuente para uso en CSS */
+  src: url("/font/InterM.ttf"); /* Ruta del archivo de la fuente */
+}
+
+/* Estilos para encabezados h1 y h2 */
+h1,
+h2 {
+  font-family: "InterSem"; /* Aplicación de la fuente InterSem a h1 y h2 */
+}
+
+/* Estilos para enlaces */
+a {
+  font-family: "InterM"; /* Aplicación de la fuente InterM a los enlaces */
+  text-decoration: none; /* Eliminar subrayado predeterminado en los enlaces */
+  font-weight: normal; /* Establecer el peso de la fuente a normal */
+}
+
+/* Clase personalizada para contenedor de imágenes */
+.image-container {
+  width: 100%; /* Ancho completo del contenedor */
+  height: 200px; /* Altura fija del contenedor */
+  overflow: hidden; /* Ocultar contenido desbordante */
+  display: flex; /* Utilizar flexbox para centrar el contenido */
+  justify-content: center; /* Centrar contenido horizontalmente */
+  align-items: center; /* Centrar contenido verticalmente */
+}
+
+/* Estilos para las imágenes dentro del contenedor .image-container */
+.image-container img {
+  width: 100%; /* Ancho completo de la imagen */
+  height: 100%; /* Altura completa de la imagen */
+  object-fit: cover; /* Ajustar la imagen para cubrir todo el contenedor */
+}
+
+/* Clase personalizada para botones en formularios */
+.btn-form {
+  padding: 2vh; /* Espaciado interior vertical basado en el viewport height */
+  color: #fff; /* Color de texto blanco */
+  background-image: linear-gradient(to left, #2253f0, #b765e8, #2253f0); /* Fondo con degradado lineal */
+  border: none; /* Sin borde */
+  cursor: pointer; /* Cambiar cursor a pointer */
+  border-radius: 2vh; /* Bordes redondeados basados en el viewport height */
+  text-transform: uppercase; /* Transformar el texto a mayúsculas */
+}

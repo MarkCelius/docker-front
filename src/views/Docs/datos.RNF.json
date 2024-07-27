@@ -1,0 +1,137 @@
+[
+    {
+        "numero": "RNF001",
+        "descripcion": "El sistema deberá permitir una interfaz de usuario sencilla y de fácil manejo para los usuarios del sistemas",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF002",
+        "descripcion": "El sistema deberá permitir el diseño de la interfaz para los diferentes dispositivos (celulares, tablets, etc...)",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF003",
+        "descripcion": "El sistema deberá permitir tener una barra a desplegar en la que se encuentren accesos rápidos de la plataforma",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF004",
+        "descripcion": "El sistema deberá permitir la personalización de los colores o imágenes de fondo en el perfil personal de cada usuario",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF005",
+        "descripcion": "El sistema deberá permitir la personalización de foto de perfil de cada usuario",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF006",
+        "descripcion": "El sistema deberá permitir visualizar sin problema los botones de redirección a los diferentes usos que tendrá la página",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF007",
+        "descripcion": "El sistema deberá permitir al usuario visualizar cada tema por una sección o pestaña",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF008",
+        "descripcion": "El sistema deberá permitir a el usuario elegir el tipo de iluminación y tema(colores) que desee en la página o aplicación",
+        "nombre": "Operable"
+    },
+    {
+        "numero": "RNF009",
+        "descripcion": "El sistema deberá permitir al usuario personalizar sus preferencias de notificaciones",
+        "nombre": "Operable"
+    },
+    {
+        "numero": "RNF010",
+        "descripcion": "El sistema deberá permitir la descripción de imagenes y fotos a medio de texto para ayudar a entender a las personas con discapacidades ",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF011",
+        "descripcion": "El sistema deberá permitir hacer cambios en el tamaño de la página, su texto e imagenes",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF012",
+        "descripcion": "El sistema deberá permitir hacer zoom a la multimedia visual presentada en la plataforma",
+        "nombre": "Perceptible"
+    },
+    {
+        "numero": "RNF013",
+        "descripcion": "El sistema deberá permitir al usuario personalizar sus listas de deseo en el orden deseado ",
+        "nombre": "Comprensible"
+    },
+    {
+        "numero": "RNF014",
+        "descripcion": "El sistema deberá permitir hacer edición de texto (color, tamaño, fuente, etc...)",
+        "nombre": "Comprensible"
+    },
+    {
+        "numero": "RNF015",
+        "descripcion": "El sistema deberá permitir hacer edición en las imagenes que se ingresen a la plataforma (recortes, iluminación, etc...)",
+        "nombre": "Comprensible"
+    },
+    {
+        "numero": "RNF016",
+        "descripcion": "El sistema debera ser capaz de manejar datos y procesarlos rapidamente sin retrasos o tiempos de espera prolongados ",
+        "nombre": "Rendimiento"
+    },
+    {
+        "numero": "RNF017",
+        "descripcion": "El sistema debera estar diseñado con medidas de seguridad para proteger la privacidad de los datos ingresado por los usuarios",
+        "nombre": "Seguridad"
+    },
+    {
+        "numero": "RNF018",
+        "descripcion": "El sistema debera ser facil de usar para que los usuarios aprendan facilmente a utilizar todas sus funcionalidades",
+        "nombre": "Fiabilidad"
+    },
+    {
+        "numero": "RNF019",
+        "descripcion": "El sistema debera ser diseñado para soportar un gran numero de usuarios y datos sin problemas de rendimiento",
+        "nombre": "Rendimiento"
+    },
+    {
+        "numero": "RNF020",
+        "descripcion": "El sistema debera permitir cambios en los datos ingresados por los usuarios sin afectar negativamente el rendimiento del mismo",
+        "nombre": "Mantenibilidad"
+    },
+    {
+        "numero": "RNF021",
+        "descripcion": "el sistema debera permitir disponibilidad y accesibilidad para los usuarios de manera que puedan acceder facilmente a el cuando lo necesiten. ",
+        "nombre": "Fiabilidad"
+    },
+    {
+        "numero": "RNF022",
+        "descripcion": "La licencia del software donde se aloje y se realice la aplicación debe ser preferiblemente software de código cerrado",
+        "nombre": "Software de desarrollo"
+    },
+    {
+        "numero": "RNF023",
+        "descripcion": "El software deberá contar con un sistema gestor de base de datos dónde se guarde la información del usuario, datos de registro, datos de la cuenta, entre otros para cumplir RF001, RF002, RF003, RF004, RF008",
+        "nombre": "Información de usuario"
+    },
+    {
+        "numero": "RNF024",
+        "descripcion": "La base de datos debe estar conectada al software para poder guardar la información del usuario ya sea de los estudiantes, profesores o administradores.",
+        "nombre": "Conexión base de datos"
+    },
+    {
+        "numero": "RNF025",
+        "descripcion": "El sistema operativo debe ser Windows pero la aplicación puede ser desarollada y ejecutada en cualquier navegador web como Google Chrome,Opera, Microsoft Edge en sus últimas versiones",
+        "nombre": "Software de ejecución"
+    },
+    {
+        "numero": "RNF026",
+        "descripcion": "El sistema o equipo en el que corre el software debe tener como mínimo una memoria RAM de 2 gigabytes preferiblemente de tipo DDR y cualquier procesador de 2.0 GHz ",
+        "nombre": "Hardware"
+    },
+    {
+        "numero": "RNF027",
+        "descripcion": "El sistema en el que corre el software debe estar conectado a internet ya sea por via Ethernet o inalámbrica para cumplir con el RF009,",
+        "nombre": "Conexion internet"
+    }
+]
